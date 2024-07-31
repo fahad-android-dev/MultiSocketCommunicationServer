@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="@dimen/_13ssp"
-            android:textColor="@color/black"
+            android:textColor="@color/color_black"
             android:text="Name : "
             android:gravity="start"
             android:textAlignment="viewStart"

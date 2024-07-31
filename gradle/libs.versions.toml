@@ -11,7 +11,7 @@ activity = "1.9.0"
 constraintlayout = "2.1.4"
 websocketVersion = "1.5.2"
 sdpVersion = "1.1.0"
-http = "4 .9.3"
+http = "4.9.3"
 socketVersion = "2.0.0"
 
 [libraries]
